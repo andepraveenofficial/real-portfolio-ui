@@ -4,6 +4,6 @@ const App: React.FC = () => {
   return <div>App</div>;
 };
 
-const a: number = 77;
+const a: number = 9884;
 
 export default App;
