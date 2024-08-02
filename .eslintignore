@@ -1,0 +1,16 @@
+
+    # Ignore node_modules
+    node_modules/
+
+    # Ignore build output directory
+
+    dist/_
+    build/_
+    coverage/\*
+
+    # Ignore specific files
+
+    src/vendor/\*_/_.js
+
+    # Ignore all test files
+    **/*.test.js
